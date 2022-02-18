@@ -1,0 +1,23 @@
+<root>
+  <HTTP1>Methods of requests to the server</HTTP1>
+  <HTTP2>server response codes</HTTP2>
+  <HTTP3>Structures of HTTP requests and responses</HTTP3>
+  <VPN1>how it works</VPN1>
+  <VPN2>how to use</VPN2>
+  <VPN3>tools</VPN3>
+  <SQL>basics</SQL>
+  <Testing_theory1>What is testing</Testing_theory1>
+  <Testing_theory2>bug reports</Testing_theory2>
+  <Testing_theory3>documentation</Testing_theory3>
+  <Testing_theory4>types</Testing_theory4>
+  <Testing_theory5>methods</Testing_theory5>
+  <Testing_theory6>areas of testing</Testing_theory6>
+  <Testing_theory7>SDLS</Testing_theory7>
+  <Testing_theory8>STLS</Testing_theory8>
+  <API_testing_via_Postman1>JS</API_testing_via_Postman1>
+  <API_testing_via_Postman2>API autotests</API_testing_via_Postman2>
+  <Dev_Tools_of_web_browsers1>Google Chrome</Dev_Tools_of_web_browsers1>
+  <Dev_Tools_of_web_browsers2>FireFox</Dev_Tools_of_web_browsers2>
+  <Mobile_testing1>Android</Mobile_testing1>
+  <Mobile_testing2>IOS</Mobile_testing2>
+</root>
