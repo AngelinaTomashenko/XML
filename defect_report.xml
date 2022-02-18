@@ -1,0 +1,23 @@
+<root>
+  <Type>Defect Report</Type>
+  <ID>2</ID>
+  <Priority>High</Priority>
+  <Severity>High</Severity>
+  <Reporter>Anhelina Tomashenko</Reporter>
+  <Status>Opened</Status>
+  <Summary>Quantity of product at the page «оформить заказ» is incorrect</Summary>
+  <Environment>Prod.</Environment>
+  <Reproducibility>Always</Reproducibility>
+  <Precondition>Google Chrome is opened at Computer Desktop</Precondition>
+  <Description>Despite of User has chosen two quantity of selected product, at the page «оформить заказ» is one unit of the product. User angelinatomashenko@gmail.com, password 1234</Description>
+  <Attachments>video with steps, screenshot with defect</Attachments>
+  <Created_at>2022-02-18</Created_at>
+  <Affects_Sprint>1</Affects_Sprint>
+  <Fixed_at></Fixed_at>
+  <Steps_to_reproduce1>Open site.com.ua</Steps_to_reproduce1>
+  <Steps_to_reproduce2>At Home page scroll down to bottom and choose Ukrainian language pressing button «укр»</Steps_to_reproduce2>
+  <Steps_to_reproduce3>Choose any product and click the link «купити»</Steps_to_reproduce3>
+  <Steps_to_reproduce4>Choose two quantity of the product and click link «оформити замовлення»</Steps_to_reproduce4>
+  <Actual_Result>there is one unit of selected product at the page «оформить заказ»</Actual_Result>
+  <Expected_Result>there is two units of selected product at the page «оформить заказ»</Expected_Result>
+</root>
