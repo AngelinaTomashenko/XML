@@ -24,7 +24,7 @@
 11. Создать файл skills.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML
 * touch skills.xml [https://github.com/AngelinaTomashenko/XML/blob/35f398aeeed44442e3cf879988f3552bb5af5581/skills.xml]
 12. Отправить сразу 2 файла на внешний репозиторий
-* git add . | git commit -am "add files preferences, skills"
+* git add . | git commit -m "add files preferences, skills"
 13. На веб интерфейсе создать файл bug_report.xml
 * GitHub -> Add File -> Create new file -> defect_report.xml [https://github.com/AngelinaTomashenko/XML/blob/35f398aeeed44442e3cf879988f3552bb5af5581/defect_report.xml]
 14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
